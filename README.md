@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I'm currently working on a game.
-🌱 I'm currently learning Blender nodes, Houdini, C++.
+-🔭 I'm currently working on a game.
+*🌱 I'm currently learning Blender nodes, Houdini, C++.
 
 
 <!--
